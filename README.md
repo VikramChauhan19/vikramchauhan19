@@ -1,5 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/938e7e49-425a-4d81-bd39-c8e9d273746d
-)](https://VikramChauhan19.io)
+
 <h1 align="center">Hi 👋, I'm Vikram Chauhan</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
